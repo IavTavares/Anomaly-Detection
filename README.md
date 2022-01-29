@@ -6,3 +6,6 @@ Models, so far:
 + 1 class Support Vector Machine (SVM)
 + Isolation Forest
 + Local Outlier Factor
+
+Time Series (Univariate and Multivariate) + Outlier Detection:
++ STL Decomposition, and Isolation Forest
